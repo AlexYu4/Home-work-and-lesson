@@ -1,4 +1,6 @@
+# Установка среды
 print("Hello world")
+# Базовые структуры
 # 1st programm
 print(9**0.5*5)
 # 2st programm
