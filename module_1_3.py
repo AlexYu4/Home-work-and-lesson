@@ -1,11 +1,11 @@
 name = "Alex"
-print(name,type(name))
+print(name)
 age = 31
-print(age,type(age))
+print(age)
 new_age = (age+1)
-print(new_age,type(new_age))
+print(new_age)
 is_student = True
-print(is_student,type(is_student))
+print(is_student)
 # Определение переменных
 number_of_homeworks = 12
 hours_spent = 1.5
